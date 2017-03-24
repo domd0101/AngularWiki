@@ -1,0 +1,38 @@
+[{
+"one":"Hello",
+"two":"Hello Kitty",
+"three":"Hello! Project",
+"four":"Hello, Dolly! (musical)",
+"five":"Helloween",
+"six":"Hello, Goodbye",
+"seven":"Hello (Adele song)",
+"eight":"Hello Good Morning",
+"nine":"Hello! (magazine)",
+"ten":"Hellogoodbye"
+}]
+
+[{
+"A":"Hello is a salutation or greeting in the English language. It is first attested in writing from 1826.",
+"B":"Hello Kitty (Japanese: ハロー・キティ, Hepburn: Harō Kiti), (full name: Kitty White (キティ・ホワイト, Kiti Howaito)) is a fictional character produced by the Japanese company Sanrio, created by Yuko Shimizu and currently designed by Yuko Yamaguchi.",
+"C":"Hello! Project (ハロー!プロジェクト, Harō! Purojekuto) is a Japanese idol project, the umbrella name for a collective of female singers who are under contract with the Up-Front Group and whose recordings are produced by Tsunku.",
+"D":"Hello, Dolly! is a 1964 musical with lyrics and music by Jerry Herman and a book by Michael Stewart, based on Thornton Wilder's 1938 farce The Merchant of Yonkers, which Wilder revised and retitled The Matchmaker in 1955.",
+"E":"Helloween is a German power metal band founded in 1984 in Hamburg, Northern Germany. The band is a pioneering force in the power metal genre, and their second and third studio albums, Keeper of the Seven Keys: Part I and Part II, are considered masterpieces of the genre.",
+"F":"'Hello, Goodbye' is a song by the English rock band the Beatles, written by Paul McCartney and credited to Lennon–McCartney.",
+"G":"'Hello' is a song by English singer Adele. It was released on 23 October 2015 by XL Recordings as the lead single from her third studio album, 25 (2015).",
+"H":"'Hello Good Morning' is a song by American rapper and producer Diddy and his band Dirty Money, from their debut album, Last Train to Paris.",
+"I":"Hello (stylised as HELLO!) is a weekly magazine specialising in celebrity news and human-interest stories, published in the United Kingdom since 1988. It is the United Kingdom local edition of ¡Hola!, the Spanish weekly magazine.",
+"J":"Hellogoodbye (sometimes styled as hellogoodbye) is a pop rock band that was formed in Huntington Beach, California in 2001 by singer Forrest Kline."
+}]
+
+[{
+"linkA":"https://en.wikipedia.org/wiki/Hello",
+"linkB":"https://en.wikipedia.org/wiki/Hello_Kitty",
+"linkC":"https://en.wikipedia.org/wiki/Hello!_Project",
+"linkG":"https://en.wikipedia.org/wiki/Hello,_Dolly!_(musical)",
+"A":"https://en.wikipedia.org/wiki/Helloween",
+"A":"https://en.wikipedia.org/wiki/Hello,_Goodbye",
+"A":"https://en.wikipedia.org/wiki/Hello_(Adele_song)",
+"A":"https://en.wikipedia.org/wiki/Hello_Good_Morning",
+"A":"https://en.wikipedia.org/wiki/Hello!_(magazine)",
+"A":"https://en.wikipedia.org/wiki/Hellogoodbye"
+}]

@@ -1,0 +1,17 @@
+
+<div class="Header">
+  <h1 class='top'>Wiki App</h1>
+  <a class="randombtn" target="_blank" href="https://en.wikipedia.org/wiki/Special:Random"> Random Search </a>
+  <input  ng-model="searchitem"  type="text"  placeholder="What to Search!?">
+  <button  ng-click='blah(searchitem)' >Search</button>
+</div>
+<div>
+
+  <div ng-repeat='a in stuff'>
+    <a target="_blank" href='{{a.kLink}}'><h3>{{a.title}}</h3></a>
+    <p>{{a.description}}</p>
+
+  </div>
+
+
+</div>
